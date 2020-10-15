@@ -1,0 +1,3 @@
+interface StatusItemClickListener {
+    fun onItemClicked(statusElement: StatusListElement)
+}
